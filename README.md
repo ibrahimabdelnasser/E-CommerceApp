@@ -1,3 +1,25 @@
+"E-Commerce app "
+The Application I Worked on. The Application Is fully Responsive .so It can be used on any devices.built with React, React Router, Rudex Toolkit and Bootstrap. You can Add, delete, and manage the shopping Cart.
+in this project, I utilized several key React and JavaScript methods. including:
+- map
+- HOOKS[useState-useEffect]
+- push
+- Request API
+- fetch
+- React Routing
+- Rudex Toolkit
+
+Features:
+✓User Friendly Interface
+✓ Display a list of products from the API
+✓ View product details
+✓Add products to the cart
+✓View and manage the shopping cart
+✓Responsive Design
+
+💻 Live Demo: https://lnkd.in/dV6UAqWD
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
